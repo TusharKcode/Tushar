@@ -1,3 +1,3 @@
 # Tushar
 This is my first git repo.
-Author- Tushar Kumar
+Author- Tushar Kumar(code)
